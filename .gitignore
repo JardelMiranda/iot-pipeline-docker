@@ -1,0 +1,11 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Dados brutos (baixar do Kaggle — ver data/README.md)
+data/*.csv
+
+# Segredos locais
+.env
