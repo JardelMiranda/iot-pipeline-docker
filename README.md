@@ -157,4 +157,4 @@ docker compose down -v       # para e apaga o volume de dados
 
 ## Autor
 
-Seu Nome — UniFECAF
+Jardel — UniFECAF
